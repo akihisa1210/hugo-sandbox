@@ -9,6 +9,8 @@ cd quickstart
 hugo server -D
 ```
 
+Access `localhost:1313`.
+
 ## Build static Pages
 
 ```
