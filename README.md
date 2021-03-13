@@ -8,3 +8,12 @@ Sandbox repository for Hugo
 cd quickstart
 hugo server -D
 ```
+
+## Build static Pages
+
+```
+cd quickstart
+hugo -D
+```
+
+Check the `./public` directory.
